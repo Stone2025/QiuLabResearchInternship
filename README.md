@@ -1,2 +1,2 @@
 # QiuLabResearchInternship
-This is work I did for Dr. Qiu for Hunter College
+This is a series of Python programs I did for Dr. Qiu representing Hunter College.
